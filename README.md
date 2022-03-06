@@ -4,4 +4,4 @@ Here is stored every [buildspace](https://buildspace.so/) project implemented on
 
 ## Projects
 
-1. Build a Web3 App with Solidity + Ethereum Smart Contracts
+1. (**p1**) Build a Web3 App with Solidity + Ethereum Smart Contracts
