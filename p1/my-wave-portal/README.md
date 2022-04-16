@@ -13,3 +13,9 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+## Rinkeby Deploy
+
+```shell
+npx hardhat run scripts/deploy.js --network rinkeby
+```
