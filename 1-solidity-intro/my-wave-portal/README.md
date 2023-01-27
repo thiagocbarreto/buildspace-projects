@@ -19,3 +19,5 @@ npx hardhat run scripts/deploy.js
 2. `npx hardhat node`: deploys a new local ethereum blockchain (use with command `#3`)
 
 3. `npx hardhat run scripts/deploy.js --network localhost`: deploys smart contract to local blockchain (use with command `#2`)
+
+4. `npx hardhat run scripts/deploy.js --network goerli`: deploys smart contract to Goerli testnet blockchain
