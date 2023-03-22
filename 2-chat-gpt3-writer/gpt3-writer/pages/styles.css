@@ -45,6 +45,7 @@ body {
 
 .header-title {
     display: flex;
+    flex-direction: column;
     gap: 12px;
 }
 
@@ -53,6 +54,15 @@ body {
     font-weight: 700;
     font-size: 72px;
     letter-spacing: -4px;
+    line-height: 1.2em;
+    text-align: center;
+    margin: 0;
+}
+
+.header-title h2 {
+    width: 100%;
+    font-weight: 500;
+    font-size: 30px;
     line-height: 1.2em;
     text-align: center;
     margin: 0;
