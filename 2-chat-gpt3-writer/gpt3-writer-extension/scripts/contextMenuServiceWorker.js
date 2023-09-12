@@ -17,6 +17,7 @@ const sendMessage = (content) => {
       activeTab,
       { message: 'inject', content },
       (response) => {
+        console.log('Service worker response:', response);
         if (response.status === 'failed') {
           console.log('injection failed.');
         }
