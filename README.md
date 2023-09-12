@@ -1,6 +1,6 @@
 # Buildspace Projects
 
-Here is stored every [buildspace](https://buildspace.so/) project implemented on my blockchain/web3/AI learning path.
+Here is stored every [buildspace](https://buildspace.so/p) project implemented on my blockchain/web3/AI learning path.
 
 ## Projects
 
